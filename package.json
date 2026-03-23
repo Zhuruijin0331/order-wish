@@ -1,4 +1,9 @@
 {
+  "name": "order-wish",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "axios": "^1.13.6",
     "express": "^5.2.1"
